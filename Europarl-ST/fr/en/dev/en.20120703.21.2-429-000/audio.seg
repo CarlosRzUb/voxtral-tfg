@@ -1,0 +1,15 @@
+;; cluster S0 [ score:FS = -32.57329146230309 ] [ score:FT = -33.35925698068488 ] [ score:MS = -33.63023480429736 ] [ score:MT = -34.158282945665455 ] 
+speech 1 0 750 F S U S0
+speech 1 10936 1206 F S U S0
+;; cluster S1 [ score:FS = -32.59121078888358 ] [ score:FT = -33.42329246752554 ] [ score:MS = -33.02363702932237 ] [ score:MT = -33.74610672680228 ] 
+speech 1 750 1182 F S U S1
+speech 1 1932 1344 F S U S1
+speech 1 3276 1573 F S U S1
+speech 1 4849 1894 F S U S1
+speech 1 6743 1770 F S U S1
+speech 1 8513 1650 F S U S1
+speech 1 10163 773 F S U S1
+;; cluster S20 [ score:FS = -34.543839875301636 ] [ score:FT = -34.712250337706124 ] [ score:MS = -34.528434629036724 ] [ score:MT = -34.91085867820937 ] 
+speech 1 12142 256 M S U S20
+;; cluster S21 [ score:FS = -32.47677395316792 ] [ score:FT = -33.251908474691135 ] [ score:MS = -33.5795245810636 ] [ score:MT = -34.17676093524873 ] 
+speech 1 12404 897 F S U S21

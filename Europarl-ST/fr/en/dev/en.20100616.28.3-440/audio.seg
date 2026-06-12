@@ -1,0 +1,11 @@
+;; cluster S0 [ merge HCLR 0 = S0 in S11 with 1.26508432272938 ] [ score:FS = -33.15091156785202 ] [ score:FT = -33.38060922792556 ] [ score:MS = -33.22028048509934 ] [ score:MT = -33.665900533714876 ] 
+speech 1 0 390 F S U S0
+speech 1 6431 232 F S U S0
+;; cluster S1 [ score:FS = -32.8986744248121 ] [ score:FT = -34.066995947733005 ] [ score:MS = -33.566637634830606 ] [ score:MT = -34.66271041504228 ] 
+speech 1 390 771 F S U S1
+speech 1 1161 838 F S U S1
+speech 1 1999 1545 F S U S1
+speech 1 3544 591 F S U S1
+speech 1 4135 863 F S U S1
+speech 1 4998 806 F S U S1
+speech 1 5804 627 F S U S1
