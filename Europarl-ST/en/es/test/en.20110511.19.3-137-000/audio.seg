@@ -1,0 +1,6 @@
+;; cluster S0 [ score:FS = -33.75710425524707 ] [ score:FT = -34.50106404250529 ] [ score:MS = -32.95386269002189 ] [ score:MT = -33.79933720770559 ] 
+speech 1 0 1260 M S U S0
+speech 1 1260 1898 M S U S0
+speech 1 3158 1158 M S U S0
+;; cluster S10 [ score:FS = -33.60233156604363 ] [ score:FT = -34.40909060218013 ] [ score:MS = -33.6494560680873 ] [ score:MT = -34.41098262763853 ] 
+speech 1 4341 1035 F S U S10

@@ -1,0 +1,39 @@
+;; cluster S0 [ score:FS = -33.4889936692537 ] [ score:FT = -34.227040525339724 ] [ score:MS = -32.2874088145886 ] [ score:MT = -33.51636608105674 ] 
+speech 1 0 668 M S U S0
+speech 1 8659 1521 M S U S0
+speech 1 12658 733 M S U S0
+;; cluster S14 [ merge HCLR 0 = S14 in S19 with 1.6295974558075421 ] [ score:FS = -34.1094869876467 ] [ score:FT = -34.95700679224011 ] [ score:MS = -33.88236682872989 ] [ score:MT = -34.83181757588888 ] 
+speech 1 7715 622 M S U S14
+speech 1 10180 641 M S U S14
+speech 1 10821 1277 M S U S14
+speech 1 12098 560 M S U S14
+speech 1 14048 290 M S U S14
+speech 1 14338 625 M S U S14
+;; cluster S15 [ score:FS = -33.77278242012654 ] [ score:FT = -34.25058671507008 ] [ score:MS = -32.32660342703257 ] [ score:MT = -33.68333408692623 ] 
+speech 1 668 949 M S U S15
+speech 1 1617 435 M S U S15
+speech 1 2052 578 M S U S15
+speech 1 2630 565 M S U S15
+speech 1 3195 1576 M S U S15
+speech 1 4771 1805 M S U S15
+speech 1 6576 845 M S U S15
+speech 1 7421 294 M S U S15
+speech 1 8337 322 M S U S15
+;; cluster S24 [ score:FS = -33.93988606368881 ] [ score:FT = -34.706829544548576 ] [ score:MS = -33.45226623904141 ] [ score:MT = -34.60968763996936 ] 
+speech 1 13391 657 M S U S24
+;; cluster S27 [ score:FS = -33.71035117620513 ] [ score:FT = -34.197249598387224 ] [ score:MS = -32.82384100307057 ] [ score:MT = -33.748518681222315 ] 
+speech 1 14963 745 M S U S27
+speech 1 16354 571 M S U S27
+;; cluster S28 [ score:FS = -33.78203382375096 ] [ score:FT = -34.29131680919579 ] [ score:MS = -32.83798022365232 ] [ score:MT = -33.84718132142038 ] 
+speech 1 15708 646 M S U S28
+speech 1 16925 1434 M S U S28
+;; cluster S31 [ score:FS = -33.79262564153999 ] [ score:FT = -34.33831643720623 ] [ score:MS = -32.6060342819903 ] [ score:MT = -33.754434162817454 ] 
+speech 1 18384 1891 M S U S31
+speech 1 20275 538 M S U S31
+speech 1 20813 1566 M S U S31
+speech 1 22379 769 M S U S31
+speech 1 23148 831 M S U S31
+speech 1 23979 1313 M S U S31
+speech 1 25292 272 M S U S31
+speech 1 25564 1754 M S U S31
+speech 1 27318 1582 M S U S31
