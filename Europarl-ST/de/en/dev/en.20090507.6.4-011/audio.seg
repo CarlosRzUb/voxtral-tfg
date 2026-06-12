@@ -1,0 +1,34 @@
+;; cluster S0 [ score:FS = -33.24999977130438 ] [ score:FT = -34.13353193674865 ] [ score:MS = -33.33135811668739 ] [ score:MT = -34.21180632411968 ] 
+speech 1 0 292 F S U S0
+speech 1 28927 934 F S U S0
+speech 1 30155 545 F S U S0
+;; cluster S1 [ merge HCLR 0 = S1 in S48 with 1.32092501329309 ] [ score:FS = -34.035296983801224 ] [ score:FT = -34.72258337865872 ] [ score:MS = -34.25237906702731 ] [ score:MT = -34.69109480730825 ] 
+speech 1 292 418 F S U S1
+speech 1 28561 366 F S U S1
+;; cluster S11 [ score:FS = -32.925261476545025 ] [ score:FT = -34.14686512087433 ] [ score:MS = -33.71516713804095 ] [ score:MT = -34.598588398783896 ] 
+speech 1 710 1080 F S U S11
+speech 1 1790 1551 F S U S11
+speech 1 3341 459 F S U S11
+speech 1 3800 1506 F S U S11
+speech 1 5306 1842 F S U S11
+speech 1 7148 251 F S U S11
+speech 1 7399 625 F S U S11
+speech 1 8024 1546 F S U S11
+speech 1 9570 1966 F S U S11
+speech 1 11536 1924 F S U S11
+speech 1 13460 965 F S U S11
+speech 1 14425 1602 F S U S11
+speech 1 16027 867 F S U S11
+speech 1 16894 595 F S U S11
+speech 1 17489 671 F S U S11
+speech 1 18160 720 F S U S11
+speech 1 18880 352 F S U S11
+speech 1 19232 749 F S U S11
+speech 1 19981 1923 F S U S11
+speech 1 21904 1674 F S U S11
+speech 1 23578 960 F S U S11
+speech 1 24538 258 F S U S11
+speech 1 24796 637 F S U S11
+speech 1 25433 1978 F S U S11
+speech 1 27411 1150 F S U S11
+speech 1 29861 294 F S U S11
