@@ -1,0 +1,8 @@
+Voxtral:
+Entre 307 y 512 minutos, según el idioma (y la cantidad de audios).
+
+Qwen:
+qwen_es: 72min
+qwen_en: 36min
+qwen_fr: 80min
+qwen_de: 96min
