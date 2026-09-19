@@ -1,3 +1,5 @@
 venv/
 venv_voxtral/
 venv_qwen/
+venv_voxtral_wsl/
+venv_qwen_wsl/
